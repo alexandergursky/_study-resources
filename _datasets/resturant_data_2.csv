@@ -1,0 +1,21 @@
+﻿Reviewer_ID,Resturant_Name,Type,Price_Range,Review (out of 5)
+Reviewer_A,Island Grill,American,$,4.5
+Reviewer_A,Flavoroso,Bakery,$$$,1.7
+Reviewer_A,Green Curry,Thai,$,2.2
+Reviewer_A,El Pirata Porch,Mexican,$,0.2
+Reviewer_B,Island Grill,American,$,5
+Reviewer_B,Green Curry,Thai,$,2.2
+Reviewer_C,El Pirata Porch,Mexican,$,4
+Reviewer_C,Sweet Escape,Bakery,$$,1.5
+Reviewer_D,Island Grill,American,$,4.5
+Reviewer_D,Green Curry,Thai,$,4.8
+Reviewer_D,Salty Squid,Fish,$$$,3.3
+Reviewer_D,Bangalore Spices,Indian,$$,0.4
+Reviewer_D,Pancake World,Bakery,$,2.9
+Reviewer_E,Veganic Corner,Vegan,$$,3
+Reviewer_E,Masala,Indian,$$$,6
+Reviewer_E,Grassfed Grill,American,$$,0.3
+Reviewer_E,Greenanic Smoothies,Vegan,$$,4.7
+Reviewer_E,Freddy’s Stove,American,$,2.6
+Reviewer_F,Veganic Corner,Vegan,$$,5
+Reviewer_F,Masala,Indian,$$$,2.5
